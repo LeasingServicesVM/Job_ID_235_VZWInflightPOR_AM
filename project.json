@@ -3,6 +3,7 @@
   "description": "",
   "main": "VerizonInFlightPOR.xaml",
   "dependencies": {
+    "UiPath.Database.Activities": "[1.7.1]",
     "UiPath.Excel.Activities": "[2.16.0]",
     "UiPath.Mail.Activities": "[1.18.1]",
     "UiPath.System.Activities": "[22.10.3]",
@@ -13,7 +14,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "22.10.3.0",
-  "projectVersion": "1.0.3",
+  "projectVersion": "1.0.10",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
